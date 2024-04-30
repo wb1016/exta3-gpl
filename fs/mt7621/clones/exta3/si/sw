@@ -1,0 +1,8 @@
+wl_helper.ssid=iptime_extender_setup
+wl_helper.use_encryption=0
+wl_helper.ifname=ra1
+wl_helper.ip=192.168.254.1
+wl_helper.hidden=0
+wl_helper.redirect=1
+wl_helper.url=setup.iptime.com
+system.led_op=on
